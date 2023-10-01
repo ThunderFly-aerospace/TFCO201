@@ -6,10 +6,10 @@
 
   (paper "A4")
   (title_block
-    (title "TFHT01B")
-    (date "%d. %m. %Y")
+    (title "TFCO201A")
+    (date "2023-10-01")
     (company "ThunderFly s.r.o.")
-    (comment 1 "UAV Humidity and Temperature \\n sensor \\n ")
+    (comment 1 "UAV CO2 concentration sensor. ")
     (comment 2 "kaklik  <info@thunderfly.cz>")
   )
 

@@ -4,7 +4,7 @@
 
 The TFCO201 CO2 gas sensor offers flexible integration options. It can be directly connected to a Pixhawk autopilot with PX4 firmware or used as a sensor for the [TF-ATMON monitoring system](https://www.thunderfly.cz/tf-atmon.html).
 
-Sensors mounted on UAVs can be used for a variety of purposes. Basically, TFCO201 can measure CO2 concentrations in parallel with air temperature and humidity, which can be used for meteorological purposes. It could also be used to determine the presence of wildfires. 
+Sensors mounted on UAVs can be used for a variety of purposes. Basically, TFCO201 can measure CO2 concentrations in parallel with air temperature and humidity, which can be used for meteorological purposes. It could also be used to determine the presence of wildfires.
 
 ![TFCO201A top view](/doc/gen/img/TFCO201-top.png)
 
@@ -28,7 +28,7 @@ The TFHT01 is commercially available from [ThunderFly s.r.o.](https://www.thunde
 | Operating temperature range| -10 °C – 60 °C |  |
 | Operating humidity range| 0 %RH – 100 %RH | |
 | I2C connector | 4-pin JST-GH | The second connector could be installed on the opposite side |
-| I2C address | 0x44 default | By switching of JP1 is possible change address to 0x45 |
+| I2C address | 0x62 | can be changed by using the [TFI2CADT01](https://github.com/ThunderFly-aerospace/TFI2CADT01) |
 | Storage temperature range| -20 °C - +40 °C |  |
 | Operational input voltage | 3.6 - 5.4V | Overvoltage internally protected by zener diode |
 | Mass | 3 g | PCB, without cabling |
@@ -46,5 +46,5 @@ The TFCO201 sensor could be used for [direct atmospheric sounding](https://en.wi
 
 [![Schematics](/doc/gen/TFCO201-schematic.svg)](doc/gen/TFCO201-schematic.pdf)
 
-## Usage in PX4 
+## Usage in PX4
 ~~The sensor is currently supported by the PX4 autopilot. Multiple sensors can be connected to one autopilot. The measured data are immediately sent to the ground station and they are also logged in the onboard ulog file.~~
