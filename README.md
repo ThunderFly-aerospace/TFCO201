@@ -13,7 +13,7 @@ Sensors mounted on UAVs can be used for a variety of purposes. Basically, TFCO20
 
 ## Where to get it?
 
-The TFHT01 is commercially available from [ThunderFly s.r.o.](https://www.thunderfly.cz/). For a commercial quotation, contact us by email at info@thunderfly.cz or shop at our [Tindie store](https://www.tindie.com/products/thunderfly/).
+The TFHT01 is commercially available from [ThunderFly s.r.o.](https://www.thunderfly.cz/). For a commercial quotation, contact us by email at info@thunderfly.cz or shop at our [Tindie store](https://www.tindie.com/stores/thunderfly/).
 
 
 ## Parameters
