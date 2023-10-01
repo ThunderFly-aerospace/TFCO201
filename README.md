@@ -1,4 +1,4 @@
-# TFHT01 - ThunderFly airborne CO2 concentration sensor. 
+# TFCO201 - ThunderFly airborne CO2 concentration sensor
 
 [![Kicad](https://github.com/ThunderFly-aerospace/TFCO201/actions/workflows/kicad_outputs.yml/badge.svg?branch=TFCO201A)](https://github.com/ThunderFly-aerospace/TFCO201/actions/workflows/kicad_outputs.yml)
 
@@ -6,7 +6,10 @@ The TFCO201 CO2 gas sensor offers flexible integration options. It can be direct
 
 Sensors mounted on UAVs can be used for a variety of purposes. Basically, TFCO201 can measure CO2 concentrations in parallel with air temperature and humidity, which can be used for meteorological purposes. It could also be used to determine the presence of wildfires. 
 
-![TFCO201A top view](/doc/gen/img/TFCO201A-top.png)
+![TFCO201A top view](/doc/gen/img/TFCO201-top.png)
+
+![TFCO201A bottom view](/doc/gen/img/TFCO201-bottom.png)
+
 
 ## Where to get it?
 
@@ -41,7 +44,7 @@ The TFCO201 sensor could be used for [direct atmospheric sounding](https://en.wi
 
 ## Schematics
 
-[![Schematics](/doc/gen/TFCO201A-schematic.svg)](/doc/gen/TFCO201A-schematic.pdf)
+[![Schematics](/doc/gen/TFCO201-schematic.svg)](doc/gen/TFCO201-schematic.pdf)
 
 ## Usage in PX4 
 ~~The sensor is currently supported by the PX4 autopilot. Multiple sensors can be connected to one autopilot. The measured data are immediately sent to the ground station and they are also logged in the onboard ulog file.~~
