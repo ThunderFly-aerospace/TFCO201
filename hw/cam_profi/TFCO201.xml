@@ -2,16 +2,16 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/TFCO201.kicad_sch</source>
-    <date>Sun Oct  1 20:18:23 2023</date>
+    <date>Sun Oct  1 20:38:34 2023</date>
     <tool>Eeschema 7.0.7-7.0.7~ubuntu23.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
-        <title>TFHT01B</title>
+        <title>TFCO201A</title>
         <company>ThunderFly s.r.o.</company>
         <rev/>
-        <date>2021-04-05</date>
+        <date>2023-10-01</date>
         <source>TFCO201.kicad_sch</source>
-        <comment number="1" value="UAV Humidity and Temperature \n sensor \n "/>
+        <comment number="1" value="UAV CO2 concentration sensor. "/>
         <comment number="2" value="kaklik  &lt;info@thunderfly.cz&gt;"/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
