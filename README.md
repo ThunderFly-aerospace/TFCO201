@@ -2,7 +2,7 @@
 
 [![Kicad](https://github.com/ThunderFly-aerospace/TFCO201/actions/workflows/kicad_outputs.yml/badge.svg?branch=TFCO201A)](https://github.com/ThunderFly-aerospace/TFCO201/actions/workflows/kicad_outputs.yml)
 
-The TFCO201 CO2 gas sensor offers flexible integration options. It can be directly connected to a Pixhawk autopilot with PX4 firmware or used as a sensor for the [TF-ATMON monitoring system](https://www.thunderfly.cz/tf-atmon.html).
+The TFCO201 [carbon dioxide gas](https://en.wikipedia.org/wiki/Carbon_dioxide) sensor offers flexible integration options. It can be directly connected to a Pixhawk autopilot with PX4 firmware or used as a sensor for the [TF-ATMON monitoring system](https://www.thunderfly.cz/tf-atmon.html).
 
 Sensors mounted on UAVs can be used for a variety of purposes. TFCO201 can measure CO2 concentrations in parallel with air temperature and humidity, which can be used for meteorological purposes. It could also be used to determine the presence of wildfires.
 
