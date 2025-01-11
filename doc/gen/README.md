@@ -20,15 +20,15 @@ Silk screen: TOP / BOTTOM
 
 Stackup:
 
-| Name                 | Type                 | Color            | Thickness | Material        | Epsilon_r | Loss tangent |
-|----------------------|----------------------|------------------|-----------|-----------------|-----------|--------------|
-| F.SilkS              | Top Silk Screen      |                  |           |                 |           |              |
-| F.Mask               | Top Solder Mask      | Green            |        10 |                 |           |              |
-| F.Cu                 | copper               |                  |        35 |                 |           |              |
-| dielectric 1         | core                 |                  |       800 | FR4             |       4.5 |        0.020 |
-| B.Cu                 | copper               |                  |        35 |                 |           |              |
-| B.Mask               | Bottom Solder Mask   | Green            |        10 |                 |           |              |
-| B.SilkS              | Bottom Silk Screen   |                  |           |                 |           |              |
+| Name                 | Type                 | Color            | Thickness [µm]| Material        | Er        | Loss tan     |
+|----------------------|----------------------|------------------|---------------|-----------------|-----------|--------------|
+| F.SilkS              | Top Silk Screen      |                  |               |                 |           |              |
+| F.Mask               | Top Solder Mask      | Green            |            10 |                 |           |              |
+| F.Cu                 | copper               |                  |            35 |                 |           |              |
+| dielectric 1         | core                 |                  |           800 | FR4             |       4.5 |        0.020 |
+| B.Cu                 | copper               |                  |            35 |                 |           |              |
+| B.Mask               | Bottom Solder Mask   | Green            |            10 |                 |           |              |
+| B.SilkS              | Bottom Silk Screen   |                  |               |                 |           |              |
 
 # Important sizes
 
@@ -97,6 +97,20 @@ Drill tools (including vias and computing adjusts and rounding):
 - 0.5 mm (20 mils) (28)
 - 3.0 mm (118 mils) (6)
 
+Solder paste stats:
+
+Using a paste with 87.75 % alloy, that has an specific gravity for the alloy of 7.4 g/cm³
+and 1.0 g/cm³ for the flux. This paste has an specific gravity of  4.15 g/cm³.
+
+The stencil thickness is  0.12 mm.
+
+| Side   | Pads with paste | Area [mm²] | Paste [g] |
+|--------|-----------------|------------|-----------|
+| Top    |               6 |       9.28 |      0.05 |
+| Bottom |              53 |      75.30 |      0.37 |
+| Total  |              59 |      84.58 |      0.42 |
+
+Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 
 
 
