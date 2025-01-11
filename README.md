@@ -1,6 +1,6 @@
 # TFCO201 - ThunderFly airborne CO2 concentration sensor
 
-[![Kicad](https://github.com/ThunderFly-aerospace/TFCO201/actions/workflows/kicad_outputs.yml/badge.svg?branch=TFCO201A)](https://github.com/ThunderFly-aerospace/TFCO201/actions/workflows/kicad_outputs.yml)
+[![Kicad - production files generator](https://github.com/ThunderFly-aerospace/TFCO201/actions/workflows/kicad_outputs.yml/badge.svg)](https://github.com/ThunderFly-aerospace/TFCO201/actions/workflows/kicad_outputs.yml)
 
 The TFCO201 [carbon dioxide gas](https://en.wikipedia.org/wiki/Carbon_dioxide) sensor offers flexible integration options. It can be directly connected to a Pixhawk autopilot with PX4 firmware or used as a sensor for the [TF-ATMON monitoring system](https://www.thunderfly.cz/tf-atmon.html).
 
