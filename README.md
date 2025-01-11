@@ -6,7 +6,7 @@ The TFCO201 [carbon dioxide gas](https://en.wikipedia.org/wiki/Carbon_dioxide) s
 
 Sensors mounted on UAVs can be used for a variety of purposes. TFCO201 can measure CO2 concentrations in parallel with air temperature and humidity, which can be used for meteorological purposes. It could also be used to determine the presence of wildfires.
 
-![obrazek](https://github.com/ThunderFly-aerospace/TFCO201/assets/5196729/bca47559-f115-4941-bb79-61ccec8639b7)
+![TFCO201 sensor with cable](https://github.com/ThunderFly-aerospace/TFCO201/assets/5196729/bca47559-f115-4941-bb79-61ccec8639b7)
 
 ## Applications
 
@@ -29,7 +29,7 @@ Industrial areas often contribute significantly to total CO2 emissions. Using a 
 
 ## Where to get it?
 
-The TFHT01 is commercially available from [ThunderFly s.r.o.](https://www.thunderfly.cz/). For a commercial quotation, contact us by email at info@thunderfly.cz or shop at our [Tindie store](https://www.tindie.com/stores/thunderfly/).
+The TFCO201 is commercially available from [ThunderFly s.r.o.](https://www.thunderfly.cz/). For a commercial quotation, contact us by email at sale@thunderfly.cz or shop at our [Tindie store](https://www.tindie.com/stores/thunderfly/).
 
 
 ## Parameters
