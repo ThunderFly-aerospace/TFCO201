@@ -18,19 +18,17 @@ The TFCO201 sensor could be used for [direct atmospheric sounding](https://en.wi
 
 ### Locating sources of atmospheric pollution (Urban Air Quality Monitoring)
 
-A drone equipped with a CO2 sensor can primarily serve to monitor carbon dioxide levels in densely populated urban areas. This drone can collect data on CO2 concentrations across different parts of the city, aiding authorities in identifying and addressing areas with high emissions. This data can be utilized for green space planning, improving urban transportation, and informing residents about air quality.
+A drone with a CO2 sensor can monitor carbon dioxide levels in densely populated urban areas, such UAVs can collect data on CO2 concentrations across different parts of the city, aiding authorities in identifying and addressing areas with high emissions. This data can be utilized for green space planning, improving urban transportation, and informing residents about air quality.
 
 ### Ecosystem Change Observation 
-A drone with a CO2 sensor can be used to monitor changes in CO2 levels in various ecosystems, such as forests, wetlands, or agricultural lands. This information is crucial for scientists studying the impact of climate change on different types of environments and aids in predicting future ecological changes or impact mitigation methods. 
-
+An unmanned system with a CO2 sensor can monitor changes in CO2 levels in various ecosystems, such as forests, wetlands, or agricultural lands. This information is crucial for scientists studying the impact of climate change on different types of environments and aids in predicting future ecological changes or impact mitigation methods. 
 
 ### Industrial Emission Control 
-Industrial areas often contribute significantly to total CO2 emissions. Using a drone equipped with a CO2 sensor can effectively monitor and map emissions from factories, power plants, and other industrial facilities. This data can be used for emission regulation and developing strategies to reduce the carbon footprint of industrial areas.
+Industrial areas often contribute significantly to total CO2 emissions. A UAV with a CO2 sensor can effectively monitor and map emissions from factories, power plants, and other industrial facilities. This data can be used for emission regulation and developing strategies to reduce the carbon footprint of industrial areas.
 
 ## Where to get it?
 
 The TFCO201 is commercially available from [ThunderFly s.r.o.](https://www.thunderfly.cz/). For a commercial quotation, contact us by email at sale@thunderfly.cz or shop at our [Tindie store](https://www.tindie.com/stores/thunderfly/).
-
 
 ## Parameters
 
